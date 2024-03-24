@@ -1,0 +1,87 @@
+[
+    {
+      "ad": "Ahmet",
+      "soyad": "Yılmaz",
+      "role": "MEMUR",
+      "calismaSaati": 160,
+      "derece": "JUNIOR"
+    },
+    {
+      "ad": "Ayşe",
+      "soyad": "Kaya",
+      "role": "MEMUR",
+      "calismaSaati": 180,
+      "derece": "MID"
+    },
+    {
+      "ad": "Mehmet",
+      "soyad": "Demir",
+      "role": "MEMUR",
+      "calismaSaati": 150,
+      "derece": "SENIOR"
+    },
+    {
+      "ad": "Fatma",
+      "soyad": "Yıldız",
+      "role": "MEMUR",
+      "calismaSaati": 140,
+      "derece": "JUNIOR"
+    },
+    {
+      "ad": "Mustafa",
+      "soyad": "Arslan",
+      "role": "MEMUR",
+      "calismaSaati": 170,
+      "derece": "MID"
+    },
+    {
+      "ad": "Zeynep",
+      "soyad": "Çelik",
+      "role": "MEMUR",
+      "calismaSaati": 180,
+      "derece": "SENIOR"
+    },
+    {
+      "ad": "Ali",
+      "soyad": "Koç",
+      "role": "MEMUR",
+      "calismaSaati": 160,
+      "derece": "JUNIOR"
+    },
+    {
+      "ad": "Hülya",
+      "soyad": "Şahin",
+      "role": "MEMUR",
+      "calismaSaati": 170,
+      "derece": "MID"
+    },
+    {
+      "ad": "Deniz",
+      "soyad": "Güler",
+      "role": "MEMUR",
+      "calismaSaati": 180,
+      "derece": "SENIOR"
+    },
+    {
+      "ad": "Yusuf",
+      "soyad": "Demirtaş",
+      "role": "MEMUR",
+      "calismaSaati": 150,
+      "derece": "JUNIOR"
+    },
+    {
+      "ad": "Ahmet",
+      "soyad": "Yıldız",
+      "role": "YONETICI",
+      "calismaSaati": 180,
+      "bonus": 1500
+    },
+    {
+      "ad": "Ayşe",
+      "soyad": "Kaya",
+      "role": "YONETICI",
+      "calismaSaati": 190,
+      "bonus": 2000
+    }
+  ]
+  

@@ -1,0 +1,9 @@
+{
+  "ismi": "Ahmet",
+  "calismaSaati": 180,
+  "odemeDetaylari": {
+    "anaOdeme": "₺91500.0",
+    "bonus": "₺1500.0",
+    "toplamOdeme": "₺93000.0"
+  }
+}

@@ -1,5 +1,5 @@
 CASE 02 Maaş bordro hesaplaması için yazıdıgım programdır.
-personel.json dosyasının yolunu alır ve çıktı olarak MART2024 klasörüne her personelin ayrı ayrı dökümünü yazar.
+personel.json dosyasının yolunu alır ve çıktı olarak MART2024 klasörüne her personelin ayrı ayrı dökümünü yazar ayrıca consol çıktısında  150 saatten az çalışan personellerin bilgilerinin çıkartır.
 -----------------------------------------------------------
 -----------------------------------------------------------
 CASE-2-Ileri Seviye: Maaş Bordro Programı  
